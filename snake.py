@@ -8,7 +8,7 @@ import random  # استيراد مكتبة العشوائية (Istīrād maktaba
 عرض_الشاشة = 600     # عرض الشاشة (Arḍ ash-shāshah - Screen width)
 ارتفاع_الشاشة = 400  # ارتفاع الشاشة (Irtifā' ash-shāshah - Screen height)
 حجم_القطعة = 20       # حجم قطعة الثعبان (Ḥajm qiṭ'at ath-thu'bān - Snake block size)
-
+# حجم قطعة الثعبان
 # الألوان (Al-alwān - Colors)
 لون_أسود = (0, 0, 0)         # أسود (Aswad - Black)
 لون_أبيض = (255, 255, 255)   # أبيض (Abyaḍ - White)
